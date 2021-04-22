@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Caleb Robbins | Designer & Developer</title>
+    <title>Sakura Tsuki | Designer & Developer</title>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     <link href="images/favicon.ico" rel="icon">
     <link href="css/normalize.css" rel="stylesheet">
