@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Caleb Robbins | Designer & Developer</title>
+    <title>Sakura Mizuki | Designer & Developer</title>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     <link href="images/favicon.ico" rel="icon">
     <link href="css/normalize.css" rel="stylesheet">
@@ -22,13 +22,13 @@
     </nav>
     <!-- page header -->
     <header>
-      <h1>Hi! I'm <span>Caleb Robbins</span>.</h1>
+      <h1>Hi! I'm <span>Sakura Mizuki</span>.</h1>
       <h2>I'm a digital <span>designer</span> and <span>developer</span> With a love for coding mod menus!</h2>
     </header>
     <!-- about me section -->
     <section class="about container">
       <h2>About</h2>
-      <p>Hi! My name is Caleb Robbins and I am a Designer & Developer (with a love for coding video game mod menus on the side!) I have made multiple websites for all different kinds of projects. I'm also going to school for a master in computer science!</p>
+      <p>Hi! My name is Sakura Mizuki(which means cherry blossom and moon), and I am a Designer & Developer (with a love for coding video game mod menus on the side!) I have made multiple websites for all different kinds of projects. I'm also going to school for a master in computer science!</p>
     </section>
     <!-- my skills section -->
     <section class="skills container">
