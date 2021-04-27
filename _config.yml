@@ -117,3 +117,5 @@ plugins:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
+
+theme: jekyll-theme-minimal
