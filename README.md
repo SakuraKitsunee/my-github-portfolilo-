@@ -2,13 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Sakura Mizuki | Designer & Developer</title>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-    <link href="images/favicon.ico" rel="icon">
-    <link href="css/normalize.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Audiowide|Press Start 2P" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-  </head>
+    <title>Sakura Mizuki | Designer & Developer</title> 
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Press+Start+2P&display=swap');
+</style?
+ 
+ </head>
 
   <body>
     <!-- nav menu -->
