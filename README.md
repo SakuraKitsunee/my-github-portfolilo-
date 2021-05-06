@@ -6,7 +6,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     <link href="images/favicon.ico" rel="icon">
     <link href="css/normalize.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Nunito|Pacifico" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Audiowide|Press Start 2P" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
   </head>
 
