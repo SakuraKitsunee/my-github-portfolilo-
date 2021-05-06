@@ -3,10 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <title>Sakura Mizuki | Designer & Developer</title> 
-    <style>
-@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Press+Start+2P&display=swap');
-</style?
- 
+
+[Audiowide,Press_Start_2P.zip](https://github.com/SakuraKitsunee/my-github-portfolilo-/files/6436346/Audiowide.Press_Start_2P.zip)
  </head>
 
   <body>
