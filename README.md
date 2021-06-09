@@ -13,7 +13,7 @@ body {
   font-family: 'pokemon-font', monospace;
 }
 h1 {
-  font-size: 40px;
+  font-size: 16px;
 }
 
   <body>
