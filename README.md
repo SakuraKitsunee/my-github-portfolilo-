@@ -4,9 +4,17 @@
     <meta charset="UTF-8">
     <title>Sakura Mizuki | Designer & Developer</title> 
     
-font-family: 'Audiowide', cursive;
-font-family: 'Press Start 2P', cursive;
- </head>
+
+
+body {
+  font-size: 8px;
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+  font-family: 'pokemon-font', monospace;
+}
+h1 {
+  font-size: 40px;
+}
 
   <body>
     <!-- nav menu -->
